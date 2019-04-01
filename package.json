@@ -1,0 +1,23 @@
+{
+  "name": "learning-ts",
+  "version": "1.0.0",
+  "description": "example code as I learn to use and write typescript",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "keywords": [
+    "typescript",
+    "learning"
+  ],
+  "author": "Benjamin G. West & All",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^8.0.3",
+    "typescript": "^3.4.1"
+  }
+}
