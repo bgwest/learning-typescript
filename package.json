@@ -17,6 +17,7 @@
   "author": "Benjamin G. West & All",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^11.12.2",
     "ts-node": "^8.0.3",
     "typescript": "^3.4.1"
   }
