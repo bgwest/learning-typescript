@@ -8,6 +8,14 @@
 - I am helping a friend with a project and he uses typescript
 - I want to get exposed to types in a language I am advanced in before jumping into new OOP lang
 
+#### package.json
+
+You do not have to `npm i` if you have the needed typescript packages installed globally. I wanted the base packages to be notated though, for ease of use, if you were also new to typescript.
+
+#### running code
+
+either run in your favorite ide with the `ts-node` package or run `tsc file.ts` to convert to JS first and then you can run with node or in a browser.
+
 #### Articles / Videos etc. that I found helpful or used examples from
 
 https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb
@@ -17,11 +25,3 @@ https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb
 https://www.typescriptlang.org/docs/handbook/classes.html
 
 https://www.typescriptlang.org/docs/handbook/interfaces.html
-
-#### package.json
-
-You do not have to `npm i` if you have the needed typescript packages installed globally. I wanted the base packages to be notated though, for ease of use, if you were also new to typescript.
-
-#### running code
-
-either run in your favorite ide with the `ts-node` package or run `tsc file.ts` to convert to JS first and then you can run with node or in a browser.
