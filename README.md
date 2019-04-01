@@ -1,5 +1,9 @@
 # My first look at typescript
 
+###### master
+
+[![Build Status](https://travis-ci.com/bgwest/learning-typescript.svg?branch=master)](https://travis-ci.com/bgwest/learning-typescript)
+
 ### Why am I learning typescript?
 ###### in no particular order...
 

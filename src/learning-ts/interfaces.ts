@@ -20,6 +20,6 @@ function greeter(food: Food) {
 let places = {
     tacos: 'Seattle',
     pizza: 'Lynnwood'
-}
+};
 
 console.log(greeter(places));
