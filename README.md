@@ -1,7 +1,7 @@
 ## My first look at typescript
 
 ### Why am I learning typescript?
-###### in no paticular order...
+###### in no particular order...
 
 - I am starting a new job that uses typescript
 - I have wanted to learn/use typescript for awhile to improve my code
@@ -20,4 +20,8 @@ https://www.typescriptlang.org/docs/handbook/interfaces.html
 
 #### package.json
 
-You do not have to npm i if you have the needed typescript packages globally installed. I wanted them to be notated though, for ease of use, if you were also new to typescript.
+You do not have to `npm i` if you have the needed typescript packages installed globally. I wanted the base packages to be notated though, for ease of use, if you were also new to typescript.
+
+#### running code
+
+either run in your favorite ide with the `ts-node` package or run `tsc file.ts` to convert to JS first and then you can run with node or in a browser.
