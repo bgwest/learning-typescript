@@ -31,3 +31,5 @@ https://medium.freecodecamp.org/learn-typescript-in-5-minutes-13eda868daeb
 https://www.typescriptlang.org/docs/handbook/classes.html
 
 https://www.typescriptlang.org/docs/handbook/interfaces.html
+
+[Setting up Webstorm for ts run/debugging in IDE](https://www.jetbrains.com/help/webstorm/running-and-debugging-typescript.html)
