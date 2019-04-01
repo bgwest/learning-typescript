@@ -4,7 +4,7 @@
   "description": "example code as I learn to use and write typescript",
   "main": "./src/index.js",
   "scripts": {
-    "test": "jest --coverage"
+    "test": "npx jest"
   },
   "repository": {
     "type": "git",
@@ -17,8 +17,13 @@
   "author": "Benjamin G. West & All",
   "license": "MIT",
   "devDependencies": {
+    "@types/jest": "^24.0.11",
     "@types/node": "^11.12.2",
+    "jest": "^24.5.0",
+    "ts-jest": "^24.0.1",
     "ts-node": "^8.0.3",
+    "tslint": "^5.14.0",
+    "tslint-config-airbnb": "^5.11.1",
     "typescript": "^3.4.1"
   }
 }
